@@ -1,5 +1,17 @@
+# readme
 README.md
-.venv
-.vscode
-__pycache__
 
+# venv
+.venv
+
+# vsc
+.vscode
+
+# temp files
+*.swp
+*.csv#
+*.xlsx#
+*.bkp
+
+# cache
+*__pycache__
