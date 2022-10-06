@@ -15,3 +15,7 @@ README.md
 
 # cache
 *__pycache__
+*.mypy_cache
+
+# temp
+temp*
